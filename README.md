@@ -1,2 +1,14 @@
 # 8-bit-elementary-cpu
-Yes, it is so elementary that it supports only 5 instructions.
+
+# WHAT IS IT?
+WHAT IS IT? DO YOU CALL IT 'CPU'?
+
+Yep. Sorry but this is all I can do.
+
+But I took lots of efforts making it BEAUTIFUL.
+
+It's not like real architecture, not fast, not functionable and more and more...
+
+but at least easy to debug. :)
+ 
+Enjoy!
