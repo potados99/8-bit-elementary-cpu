@@ -7,7 +7,7 @@ WHAT IS IT? DO YOU CALL IT 'CPU'?
 
 Yep. Sorry but this is all I can do.
 
-But I took lots of efforts making it BEAUTIFUL.
+But I took some time making it BEAUTIFUL.
 
 It's not like real architecture, not fast, not functionable and more and more...
 
