@@ -1,6 +1,6 @@
 # 8-bit-elementary-cpu
 
-![](https://raw.githubusercontent.com/potados99/8-bit-elementary-cpu/master/export.png)
+![](https://raw.githubusercontent.com/potados99/8-bit-elementary-cpu/master/ex_with_display.png)
 
 # WHAT IS IT?
 WHAT IS IT? DO YOU CALL IT 'CPU'?
